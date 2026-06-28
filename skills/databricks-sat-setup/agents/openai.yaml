@@ -1,0 +1,4 @@
+interface:
+  display_name: "Databricks SAT Setup"
+  short_description: "Set up and debug Databricks SAT"
+  default_prompt: "Use $databricks-sat-setup to install or debug Databricks Security Analysis Tool for this workspace."
